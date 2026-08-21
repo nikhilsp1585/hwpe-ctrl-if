@@ -17,7 +17,7 @@
  * specific language governing permissions and limitations under the License.
  */
 
-interface hwpe_ctrl_intf_periph
+interface hwpe_ctrl_if_pheriph
   import hwpe_ctrl_package::*;
 (
   input logic clk
